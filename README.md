@@ -1,2 +1,5 @@
-# Sales-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Sales Data Analysis (Interactive Dashboard creation using MS Excel)
+## as project objectives
+My Manager wants me to create an Sales Report for Lazada Vs Shopee Sales. So that, the owner of the Continental Sales Inc. can understand their customers and grow more sales in the next month.
+
+
