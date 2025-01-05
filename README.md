@@ -26,7 +26,7 @@ https://docs.google.com/spreadsheets/d/13DzBh4Ylocl-Gw_qmbge6fDaCD63w4LB/edit?us
 - September got the highest Sales.
 
 ## Conclusions
-To improve the sales on Shopee, a strategic marketing plan focus on increasing shopee ratings and contact shopee management like I did on Lazada so they can help our company and shopee online sales growth. 
+To improve the sales on Shopee, a strategic marketing plan focus on increasing shopee ratings and contact shopee management like what I did on Lazada so they can help our company and shopee online sales growth. 
 
 ## Final Conclusions
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
